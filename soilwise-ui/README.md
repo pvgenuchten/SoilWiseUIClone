@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# Soilwise UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A react-material user interface to the Soilwise-he catalogue
+Read more about the Soilwise Horizon Europe project at [soilwise-he.eu](https://soilwise-he.eu)
+
+## Quick start
+
+- Clone the project
+- Get a recent version of [node](https://nodejs.org/en/download)
+- Run:
+
+```
+npm install
+npm start
+```
+- Open your browser at http://locahost:3000
+
 
 ## Available Scripts
 
